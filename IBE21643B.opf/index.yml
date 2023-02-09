@@ -1,0 +1,11 @@
+id: eb6ad5302f674b5fba6b5838d09b6f7b
+annotation_type: index
+revision: '00001'
+annotations:
+  7980cb06b39244a1aec16d2a6195dc7f:
+    base: 9265.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 334
